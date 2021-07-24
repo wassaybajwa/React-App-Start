@@ -6,6 +6,10 @@
   color:rgb(0, 255, 106);
 }
 
+.size-img1{
+  width: 100px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
